@@ -9,7 +9,7 @@ var i = 0;
 var clicks = 0;
 var selectedCards = [];
 var isWaiting = false;
-var points = 10;
+var points = 0;
 
 getPokemons();
 getPokemons();
